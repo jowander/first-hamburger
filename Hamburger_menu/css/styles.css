@@ -1,0 +1,36 @@
+body {
+    background-color: #d5dde0;
+}
+
+div#hamburger {
+    height: 25px;
+    width: 25px;
+    margin-top: 20px;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+div#line1 {
+    height: 5px;
+    width: 25px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+div#line2 {
+    height: 5px;
+    width: 25px;
+    background-color: black;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+div#line3 {
+    height: 5px;
+    width: 25px;
+    background-color: black;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
